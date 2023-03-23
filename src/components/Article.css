@@ -1,0 +1,12 @@
+.Article img{
+float: left;
+}
+.Article .Link{
+  color: blue;
+  text-align: left;
+}
+.Article span{
+display: flex;
+padding-left: 15px;
+color: black;
+}
